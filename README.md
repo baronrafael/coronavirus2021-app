@@ -1,27 +1,11 @@
-# Coronavirus2021App
+# Coronavirus 2021 App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.0.
+A SPA made with Angular 11.1 to be aware of the number of cases and other information regarding COVID-19. It is a new version of: [Coronavirus 2019 App](https://github.com/baronrafael/coronavirus2019-app)
 
-## Development server
+## Tech Stack
+- [Angular](https://angular.io/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Netlify](https://www.netlify.com/)
+- [DISEASE.SH API](https://github.com/disease-sh/API)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+There's a live demo in: https://coronavirus2019.netlify.com/
