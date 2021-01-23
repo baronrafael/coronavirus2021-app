@@ -8,4 +8,4 @@ A SPA made with Angular 11.1 to be aware of the number of cases and other inform
 - [Netlify](https://www.netlify.com/)
 - [DISEASE.SH API](https://github.com/disease-sh/API)
 
-There's a live demo in: https://coronavirus2019.netlify.com/
+There's a live demo in: https://coronavirus2021.netlify.com/
